@@ -1,5 +1,0 @@
-C:\Users\tkgri\source\repos\GorillaTrails\GorillaTrails\obj\Debug\netstandard2.0\GorillaTrails.csproj.AssemblyReference.cache
-C:\Users\tkgri\source\repos\GorillaTrails\GorillaTrails\obj\Debug\netstandard2.0\GorillaTrails.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\tkgri\source\repos\GorillaTrails\GorillaTrails\obj\Debug\netstandard2.0\GorillaTrails.AssemblyInfoInputs.cache
-C:\Users\tkgri\source\repos\GorillaTrails\GorillaTrails\obj\Debug\netstandard2.0\GorillaTrails.AssemblyInfo.cs
-C:\Users\tkgri\source\repos\GorillaTrails\GorillaTrails\obj\Debug\netstandard2.0\GorillaTrails.csproj.CoreCompileInputs.cache
